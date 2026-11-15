@@ -1,0 +1,16 @@
+{
+  "name": "map-my-itinerary",
+  "version": "1.0.0",
+  "description": "Plan trips and manage stops, bookings, costs, checklists, notes, your profile and the people you travel with through your connected Map My Itinerary account, with the access you choose when you connect.",
+  "author": {
+    "name": "Apptractive Pty Ltd",
+    "email": "support@mapmyitinerary.com",
+    "url": "https://mapmyitinerary.com"
+  },
+  "homepage": "https://mapmyitinerary.com/help/ai-assistants",
+  "license": "LicenseRef-Apptractive-Proprietary",
+  "keywords": ["travel", "itinerary", "trips", "group travel"],
+  "displayName": "Map My Itinerary",
+  "icon": "./assets/icon.png",
+  "privacyPolicyUrl": "https://mapmyitinerary.com/privacy-policy"
+}

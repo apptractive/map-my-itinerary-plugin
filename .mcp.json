@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "map-my-itinerary": {
+      "type": "http",
+      "url": "https://ai.mapmyitinerary.com/mcp",
+      "oauth": {
+        "scopes": "trips:read trips:write trips:share"
+      }
+    }
+  }
+}

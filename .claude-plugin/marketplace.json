@@ -1,0 +1,15 @@
+{
+  "name": "map-my-itinerary",
+  "description": "The official Map My Itinerary plugin for Claude, from Apptractive Pty Ltd.",
+  "owner": {
+    "name": "Apptractive Pty Ltd",
+    "email": "support@mapmyitinerary.com"
+  },
+  "plugins": [
+    {
+      "name": "map-my-itinerary",
+      "source": "./",
+      "description": "Plan trips and manage stops, bookings, costs, checklists, notes and the people you travel with through your connected Map My Itinerary account."
+    }
+  ]
+}

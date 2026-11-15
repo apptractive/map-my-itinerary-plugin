@@ -1,0 +1,101 @@
+Map My Itinerary plugin for AI assistants
+Copyright (c) 2026 Apptractive Pty Ltd (ABN 37 627 379 800). All rights reserved.
+
+This plugin is proprietary and is not open source.
+
+"Plugin" means everything in this package: the skills, prompts and
+instructions, manifests, configuration, documentation and icon. "Service"
+means Map My Itinerary and its connector. "We" means Apptractive Pty Ltd.
+"You" means anyone who obtains or uses the Plugin.
+
+The Plugin is licensed, not sold. We keep every right that this licence does
+not expressly grant.
+
+1. What you may do
+
+You may install, copy and run the Plugin, unmodified, only to use the Service
+through an AI assistant. The AI assistant may read and act on the Plugin for
+that purpose. You may still turn off or remove parts of it for your own use. This
+licence is non-exclusive, non-transferable and free of charge, and can end
+only as section 5 says.
+
+This licence covers the Plugin package only. It gives no one ownership of, or
+any extra permission to use, anyone's trip content or personal information.
+How we handle that is set out in our Privacy Policy at
+https://mapmyitinerary.com/privacy-policy.
+
+2. What an AI platform or directory may do
+
+The operator of an AI platform or plugin directory that we have submitted the
+Plugin to may host, copy, review, scan, list and distribute it, and make the
+technical changes needed to package or run it, in order to offer the Plugin to
+its users. The operator may show our name and the Plugin's icon to identify
+the Plugin.
+
+If we have expressly accepted a separate submission or directory agreement
+with that operator, that agreement governs the operator's rights to review,
+test, distribute and promote the Plugin, and it prevails over anything in this
+licence that conflicts with it.
+
+3. What you may not do
+
+Apart from what sections 1 and 2 allow, and except where the law permits it
+regardless of this licence, you may not:
+
+(a) modify, adapt, translate or make derivative works of the Plugin, except
+    to turn off or remove parts of it for your own use;
+
+(b) publish, share, sell, sublicense or distribute the Plugin or any part of
+    it, including in another plugin, skill, marketplace, repository or prompt
+    library;
+
+(c) use the Plugin with any service other than the Service, or point it at a
+    different server;
+
+(d) use the Plugin to develop, train or benchmark an AI model or dataset, or
+    to build a product or service that competes with the Service; or
+
+(e) remove or change any copyright, trade mark or licence notice.
+
+4. Our name and brand
+
+"Map My Itinerary", "Apptractive", the Plugin's icon, and our other names,
+logos and trade marks, registered or not, belong to us. This licence gives you
+no right to use them, except to say accurately what the Plugin is.
+
+You may not use them, or anything confusingly similar, for your own plugin,
+skill, connector, product, listing or account. You may not suggest that we
+make, endorse or are connected with something when we do not or are not.
+
+5. When this licence ends
+
+We may end this licence if you materially breach it and do not fix the breach
+within 14 days after we tell you about it, or straight away where that is
+reasonably needed to deal with a serious security risk or unlawful use. If we
+stop offering the Plugin for any other reason, we will normally give 30 days'
+notice, for example on our website or in the Plugin's listing. Ending this
+licence does not take away any refund or other right you have under our Terms
+of Use or the law.
+
+When it ends, you must stop using the Plugin and delete the copies you control,
+except copies the law requires you to keep. Sections 3, 4, 6 and 7 continue
+after it ends.
+
+6. Terms and liability
+
+Our Terms of Use at https://mapmyitinerary.com/terms-conditions govern your
+use of the Service, and their availability and liability section also applies
+to the Plugin. To the extent the law allows, the Plugin is otherwise provided
+as is.
+
+Nothing in this licence excludes a right or guarantee under the Australian
+Consumer Law, or under any other law, that cannot be excluded.
+
+7. Governing law
+
+This licence is governed by the laws of New South Wales, Australia. You and we
+each submit to the non-exclusive jurisdiction of the courts of that State and
+of the Commonwealth of Australia.
+
+To ask for permission to do anything this licence does not allow, email
+support@mapmyitinerary.com.
